@@ -1,0 +1,89 @@
+header, footer {
+    color: white;
+    background-color: #3D6271;
+    margin: 0em 4em 0em 4em;
+    padding: 0.7em 0.7em 0.7em 0.5em;
+}
+
+body {
+    background-color: rgb(34, 32, 32);
+}
+
+.title {
+    font: Arial;
+    font-size: 2.25em;
+}
+
+/* Designed for the letters under "Share Your Travels*/
+.utitle {
+    font: Arial;
+    font-size: 1.2em;
+}
+
+.drrBox {
+    color: rgb(47, 131, 234);
+    background-color: rgb(66, 71, 81);
+    margin: 0em 4em 0.5em 4em;
+    padding: 0.7em 0.7em 0.7em 0.5em;
+    /* font-size: 1.5em; */
+}
+
+.drrBox span {
+    font-size: 1.5em;
+}
+
+.theMainBody {
+    background-color: white;
+    margin: 0em 4em 0.5em 4em;
+    padding: 0.7em 0.5em 0.7em 0.5em;
+}
+
+.subt {
+    font-size: 1.5em;
+}
+
+.modifyTheLine {
+    margin-top: 1.5px;
+    margin-bottom: 1.5px;
+}
+
+.theItalics {
+    font-size: 1.2em;
+    color: rgb(132, 128, 128);
+}
+
+.theParagraph {
+    margin-top: 0.35em;
+    font-size: 1.2em;
+}
+
+.wordsUnderline {
+    text-decoration: underline;
+}
+
+.surroundPic {
+    border: solid rgb(112, 107, 107);
+    padding: 0.3em;
+    border-width: 0.1em;
+}
+
+.shareBox {
+    background-color: rgb(201, 195, 195);
+    border: solid rgb(106, 103, 103);
+}
+
+.relatedPhotos {
+    margin-top: 0.8em;
+    margin-bottom: 1em;
+}
+
+.linesInReview {
+    margin-top: 0.1em;
+}
+
+.theLastWords {
+    color: rgb(47, 131, 234);
+}
+
+
+

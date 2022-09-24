@@ -1,0 +1,119 @@
+.theBeginning {
+    background-color: rgb(48, 46, 46);
+    padding: 0.6em 8em 0.6em 8em;
+    text-align: right;
+}
+
+.theHyperLinkColor1 {
+    color: rgb(25, 117, 214);  
+}
+
+.theHyperLinkColor1 a:visited {
+    color: rgb(25, 117, 214);
+}
+
+.theDarkBlueStripeBG {
+    background-image: url(DarkBlueStripe.png);
+}
+
+.title {
+    font-size: 3em;
+    color: white;
+}
+
+.theTitle {
+    padding: 0.6em 8em 0.6em 8em;
+}
+
+.underTheTitle {
+    background-color: rgb(133, 220, 238);
+    padding: 0.6em 8em 0.6em 8em;
+}
+
+.theMainBodyBG {
+    background-color: rgb(226, 237, 239);
+}
+
+.justifyTheBoxes {
+    background-color: white;
+    margin-left: 8em;
+    margin-right: 8em;
+    margin-top: 0;
+    margin-bottom: 1em;
+}
+
+.selfIntroBox {
+    text-align: center;
+}
+
+.theImage {
+    height: 7em;
+    width: 7em;
+    border: solid 1px;
+    padding: 0.3em;
+    margin-top: 3em;
+}
+
+section {
+    border: solid 1pt black;
+}
+
+section h3 {
+    color: white;
+    padding: 0.5em;
+    background-image: url(DarkBlueStripe.png);
+    background-repeat: repeat;
+}
+
+section p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 0.5em;
+}
+
+section em {
+    color: #828275;
+}
+
+div.act ul li {
+    list-style: none;
+    display: inline;
+}
+
+div.act
+{
+    background-color: #283649;
+    font-size: 0.75em;
+    padding: 0.5em;
+    margin-top: 1em;
+}
+
+div.act a
+{
+    background-color: #DAE1E8;
+    padding-top: 0.1em;
+    padding-right: 1em;
+    padding-bottom: 0.1em;
+    padding-left: 2em;
+    border: solid 1px #999999;
+    border-radius: 4px;
+    margin-right: 0.5em;
+}
+
+.Edit {
+    background: url(edit.png) no-repeat;
+    background-position: 0.250em 0.150em;
+}
+.Flag {
+    background: url(flag.png) no-repeat;
+    background-position: 0.250em 0.150em;
+}
+
+.last {
+    background-color: #283649;
+    padding: 0.5em;
+}
+.last p {
+    color: mintcream;
+    font-size: 0.875em;
+}
